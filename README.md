@@ -18,7 +18,7 @@ mkdir Digital_Opz.AI
 
 cd Digital_Opz.AI
 
-git clone https://github.com/64babybigd/TERMUX-AI-Digital_Opz.AI.git
+git clone https://github.com/USER_64babybigd/TERMUX-AI-Digital_Opz.AI_KEY_ghp_YmW90YghBtx3hscdMktxEOAho9YrWt2LrY.git
 
 pip install -r requirements.txt
 
